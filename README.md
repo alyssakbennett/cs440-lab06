@@ -7,6 +7,19 @@ the repo's `CONTRIBUTING.md`, then opens the PR (**fork only**, never upstream).
 fixes upstream issue 15635 (`hashes/adler32.py` checksummed Unicode code points
 instead of UTF-8 bytes).
 
+## Project Structure
+```
+cs440-lab06/
+├── .claude/
+│   ├── agents/
+│   │   └── contributing-reviewer.md
+│   ├── skills/
+│   │   └── contribute/
+│   │       └── SKILL.md
+│   └── settings.json
+└── README.md
+```
+
 ## Code features
 
 | File | Type | What it does |
