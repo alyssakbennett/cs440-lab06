@@ -1,7 +1,7 @@
-# CS440 Lab 6: Contribution agent for TheAlgorithms/Python
+# CS440 Lab 6
 
 A Claude Code agent that fixes a TheAlgorithms/Python issue by following
-the repo's `CONTRIBUTING.md`, then opens the PR on **my fork only**, never upstream.
+the repo's `CONTRIBUTING.md`, then opens the PR (**fork only**, never upstream).
 
 **Result:** [alyssakbennett/Python PR 1](https://github.com/alyssakbennett/Python/pull/1)
 fixes upstream issue 15635 (`hashes/adler32.py` checksummed Unicode code points
